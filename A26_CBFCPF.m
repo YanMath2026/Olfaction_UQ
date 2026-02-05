@@ -1,5 +1,4 @@
-%%%% exact mean + opt over ET domain
-%%%%%%%%  plot output m fn; CBF/CPF;  and uniform over random sets
+%%%%%%%%  plot output m fn; CBF/CPF  %%% example for leakiness
 clear;close all;
 
 xi1Bdry=[3.5056; 5;10;15;20;25;26.6857]; %[0.1;1;10];
